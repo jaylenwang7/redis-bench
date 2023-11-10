@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/juju/ratelimit"
-	"github.com/smallnest/redbench"
+	"github.com/jaylenwang7/redbench"
 )
 
 var (
